@@ -1,4 +1,24 @@
+## Hi, I'm Raviteja
 
+A passionate Android Developer with strong experience in Java and Kotlin. I build clean, efficient, and user-friendly mobile apps that follow modern Android architecture and design principles.
+
+### ⚡ I specialize in:
+
+📱 Native Android App Development (Java & Kotlin)
+
+🧩 MVVM Architecture, Jetpack Libraries, Room DB, Hilt DI, LiveData, ViewModel
+
+🎨 Material Design, Dark/Light Theme Support
+
+⚙️ Firebase, Remote Config, Notifications, Analytics
+
+🔐 App Security, Crash Handling, In-App Updates
+
+🌐 REST APIs, Retrofit, JSON Parsing
+
+🛠️ Building custom Android libraries (JAR/AAR)
+
+📊 Clean UI + Real-time data handling + Optimization
 
 
 ## 🌐 Socials:
